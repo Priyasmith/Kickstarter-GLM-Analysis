@@ -48,7 +48,7 @@ The study tackles the problem through two primary statistical frameworks:
 * **Language:** R
 * **Core Libraries:** 
   * Data Processing: `tidyverse`, `lubridate`, `readxl`
-  * Econometric & Count Modeling: `pscl`
+  * Count Modeling: `pscl`
   * Evaluation & Diagnostics: `pROC`, `corrplot`, `ggplot2`
 
 ---
